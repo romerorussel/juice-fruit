@@ -1,8 +1,10 @@
 .header-top{
-   padding:5px;
-   background-color: #086FA1;
-   color: #FFF;
-   font-weight: bold;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #F7F7F9;
+    color: #4578F5;
+    font-weight: bold;
 }
 #main-header-navigation{
     font-weight: bold;
@@ -13,6 +15,14 @@
 #logo-top{
     max-height: 200px;
     width: auto;
+}
+.social-media-top ul li{
+    text-decoration: none;
+    display: inline-block;
+    padding-right: 10px;
+}
+.contact-top{
+    margin-left: 5px;
 }
 .carousel-inner{
     max-height: 600px;
