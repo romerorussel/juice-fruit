@@ -1,0 +1,24 @@
+.header-top{
+   padding:5px;
+   background-color: #086FA1;
+   color: #FFF;
+   font-weight: bold;
+}
+#main-header-navigation{
+    font-weight: bold;
+}
+#main-header-navigation li{
+    padding-left: 20px;
+}
+#logo-top{
+    max-height: 200px;
+    width: auto;
+}
+.carousel-inner{
+    max-height: 600px;
+    width: auto;
+    display: flex;
+}
+.carousel-inner img{
+    align-items: center;
+}
